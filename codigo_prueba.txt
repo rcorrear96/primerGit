@@ -1,0 +1,4 @@
+#Aquí podría colocar todas las funciones
+
+#codigo 1
+#codigo 2
